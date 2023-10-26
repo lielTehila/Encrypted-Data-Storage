@@ -1,0 +1,4 @@
+::Name Final_Progect
+::Description This is the Final_Progect applet
+::Vendor DALSDK_build
+::Applet C:\workspaces\Final_Progect\bin\ME11.0\Final_Progect_ME11.0.pack ::FwVersion 11.0.0

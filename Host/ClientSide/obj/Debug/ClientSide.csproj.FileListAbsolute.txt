@@ -1,0 +1,7 @@
+C:\Users\ליאל תהלה שמחי\source\repos\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\ליאל תהלה שמחי\source\repos\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\ליאל תהלה שמחי\source\repos\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\ליאל תהלה שמחי\source\repos\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\ליאל תהלה שמחי\source\repos\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\ליאל תהלה שמחי\source\repos\ClientSide\obj\Debug\ClientSide.pdb
+C:\Users\ליאל תהלה שמחי\source\repos\ClientSide\obj\Debug\ClientSide.csprojAssemblyReference.cache

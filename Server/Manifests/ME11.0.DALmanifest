@@ -1,0 +1,16 @@
+applet.id: 052fd314-a269-4b83-9b97-5cf9f1df21b7
+applet.name: Final_Progect
+applet.vendor: Intel
+applet.version: 1.0
+security.version: 1
+applet.heap.size: 50000
+applet.platform: CSE
+applet.api.level: 7
+applet.description: This is the Final_Progect applet
+applet.entry_class: Server.Final_Progect
+applet.flash.quota: 0
+applet.debug.enable: true
+applet.debugger.timeout: 30000
+applet.written.by.intel: true
+applet.instance.debuggable: true
+applet.access.control: 12

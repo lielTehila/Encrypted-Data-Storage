@@ -1,0 +1,8 @@
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\bin\Amulet\Final_ProgectHost.exe
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\bin\Amulet\Final_ProgectHost.pdb
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\bin\Amulet\JhiSharp.dll
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\obj\x86\Amulet\Final_ProgectHost.csprojAssemblyReference.cache
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\obj\x86\Amulet\Final_ProgectHost.csproj.CoreCompileInputs.cache
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\obj\x86\Amulet\Final_ProgectHost.csproj.CopyComplete
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\obj\x86\Amulet\Final_ProgectHost.exe
+C:\Users\ליאל תהלה שמחי\source\repos\Final_ProgectHost\Final_ProgectHost\obj\x86\Amulet\Final_ProgectHost.pdb
